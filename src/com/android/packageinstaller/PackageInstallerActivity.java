@@ -400,7 +400,7 @@ public class PackageInstallerActivity extends Activity implements OnCancelListen
      */
     private boolean isUnknownSourcesEnabled() {
         return Settings.Secure.getInt(getContentResolver(),
-                Settings.Secure.INSTALL_NON_MARKET_APPS, 0) > 0;
+                 Settings.Secure.INSTALL_NON_MARKET_APPS, 1) > 0;
     }
 
     /**
