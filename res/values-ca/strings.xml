@@ -82,7 +82,7 @@
     <string name="uninstall_all_blocked_profile_owner" msgid="3544933038594382346">"L\'aplicació cal en alguns usuaris o perfils i s\'ha desinstal·lat per a d\'altres"</string>
     <string name="uninstall_blocked_profile_owner" msgid="6912141045528994954">"Aquesta aplicació es necessita per al teu perfil i no es pot desinstal·lar."</string>
     <string name="uninstall_blocked_device_owner" msgid="7074175526413453063">"L\'administrador del dispositiu necessita l\'aplicació i no la pots desinstal·lar."</string>
-    <string name="manage_device_administrators" msgid="118178632652346535">"Gestiona les aplicacions d\'administració del dispositiu"</string>
+    <string name="manage_device_administrators" msgid="118178632652346535">"Gestiona aplicacions d\'administració del dispositiu"</string>
     <string name="manage_users" msgid="3125018886835668847">"Gestiona els usuaris"</string>
     <string name="uninstall_failed_msg" msgid="8969754702803951175">"<xliff:g id="APP_NAME">%1$s</xliff:g> no s\'ha pogut desinstal·lar."</string>
     <string name="Parse_error_dlg_text" msgid="7623286983621067011">"S\'ha produït un problema en analitzar el paquet."</string>
@@ -115,7 +115,7 @@
     <string name="app_permissions_group_summary" msgid="4787239772223699263">"<xliff:g id="COUNT_0">%1$d</xliff:g> de <xliff:g id="COUNT_1">%2$d</xliff:g> aplicacions permeses"</string>
     <string name="menu_show_system" msgid="6773743421743728921">"Mostra aplicacions del sistema"</string>
     <string name="menu_hide_system" msgid="7595471742649432977">"Amaga aplicacions del sistema"</string>
-    <string name="permission_title" msgid="6495415273398916381">"Permisos de <xliff:g id="PERMISSION">%1$s</xliff:g>"</string>
+    <string name="permission_title" msgid="6495415273398916381">"Permisos de: <xliff:g id="PERMISSION">%1$s</xliff:g>"</string>
     <string name="no_apps" msgid="1965493419005012569">"Cap aplicació"</string>
     <string name="location_settings" msgid="1774875730854491297">"Configuració d\'ubicació"</string>
     <string name="location_warning" msgid="8778701356292735971">"<xliff:g id="APP_NAME">%1$s</xliff:g> és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar des de la configuració d\'ubicació."</string>
